@@ -1,0 +1,16 @@
+php index_program.php TestFiles_Mine "index.txt"
+
+php index_program.php TestFiles_Mine "you sir" proximity none
+
+
+php index_program.php TestFiles "google" cosine chargram 1 query1_cosine_chargram cosine_chargramming_trec_top_file.txt
+
+php index_program.php TestFiles "Magician" cosine chargram 2 query2_cosine_chargram cosine_chargramming_trec_top_file.txt
+
+php index_program.php TestFiles "vampire diaries" cosine chargram 3 query3_cosine_chargram cosine_chargramming_trec_top_file.txt
+
+php index_program.php TestFiles "brown dog" cosine chargram 4 query4_cosine_chargram cosine_chargramming_trec_top_file.txt
+
+php index_program.php TestFiles "Once upon time" cosine chargram 5 query5_cosine_chargram cosine_chargramming_trec_top_file.txt
+
+php index_program.php TestFiles "Design analysis algorithm" cosine chargram 6 query6_cosine_chargram cosine_chargramming_trec_top_file.txt
